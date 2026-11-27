@@ -1,0 +1,35 @@
+{
+ "generated": "2026-11-27T14:58:36+01:00",
+ "next_update": "2026-11-30T09:20:00+01:00",
+ "triage": "ok",
+ "models": [
+  "gpt-6.2-sol"
+ ],
+ "sources": {
+  "p14": "ok",
+  "mhmp": "ok",
+  "desu": "ok",
+  "pid": "ok",
+  "rhmp": "ok",
+  "eia": "ok",
+  "p20": "ok",
+  "tsk": "ok",
+  "zhmp": "ok",
+  "md": "ok",
+  "p21": "ok",
+  "bechovice": "ok",
+  "p20news": "ok",
+  "bechnews": "ok",
+  "pvk": "ok",
+  "p15": "skipped"
+ },
+ "counts": {
+  "action": 0,
+  "dp": 9,
+  "okoli": 15,
+  "eia": 0,
+  "pending": 0,
+  "low": 66
+ },
+ "banners": []
+}
